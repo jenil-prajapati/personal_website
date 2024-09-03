@@ -121,7 +121,12 @@ body {
 }
 
 .about-me-wrap {
-  width: 60%;
+  width: 60%; 
+}
+
+.social-links-text {
+  margin-top: 30px; /* Adds more space between paragraphs and links */
+  font-size: 19px; /* Optional: adjust the font size if needed */
 }
 
 .acitivities-wrapper {
@@ -222,6 +227,7 @@ body {
 .tennis-description {
   width: 80%;
   margin: 20px auto;
+  margin-top: -10px;
   font-size: 19px;
   font-family: "Roboto", sans-serif;
   text-align: center;
